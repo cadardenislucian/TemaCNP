@@ -1,0 +1,6 @@
+Pentru cautarea a 1000 de persoane:
+Total iteratii in tabela hash: 516156
+Total iteratii in structura originala: 514500308
+Medie iteratii in tabela hash: 516.156
+Medie iteratii in structura originala: 514500.308
+Rezultat: cu 99.90% mai putine iteratii.
